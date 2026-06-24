@@ -1,0 +1,25 @@
+# Build artifacts de Qt
+build-*/
+*.o
+*.obj
+*.exe
+*.app/
+moc_*
+ui_*.h
+qrc_*.cpp
+qrc_*.o
+*.qmake.stash
+.qmake.cache
+Makefile*
+*.user
+*.user.*
+
+# Datos generados en tiempo de ejecución (contienen info de usuarios/votos)
+*.dat
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Otros
+*.pro.user*

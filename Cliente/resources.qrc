@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>ELECCIONES/4.jpg</file>
+        <file>ELECCIONES/2.jpg</file>
+        <file>ELECCIONES/1.svg.png</file>
+        <file>ELECCIONES/3.jpg</file>
+        <file>ELECCIONES/x.png</file>
+        <file>ELECCIONES/6.jpg</file>
+        <file>ELECCIONES/Diputados1.png</file>
+        <file>ELECCIONES/Diputados2.png</file>
+        <file>ELECCIONES/AlcaldesTgu.jpg</file>
+        <file>ELECCIONES/Rotulo3.png</file>
+        <file>ELECCIONES/Log.png</file>
+        <file>ELECCIONES/Log2.png</file>
+    </qresource>
+</RCC>
